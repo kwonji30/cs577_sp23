@@ -1,5 +1,5 @@
 # cs577_sp23
-CS 577 NLP Final Project Code
+CS 577 NLP Final Project
 
 Project Title
 Exploring generalization performance using ensemble knowledge distillation and flat minima optimization
